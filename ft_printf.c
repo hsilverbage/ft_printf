@@ -11,21 +11,7 @@
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-#include <stdio.h>
-/*
 
-int	ft_print_address(void *address)
-{
-	int					len;
-	unsigned long int	address_cast;
-
-	len = 2;
-	address_cast = (unsigned long int) address;
-	ft_putstr("0x");
-	len += ft_putnbr_hexa("0123456789abcdef", address_cast);
-	return (len);
-}
-*/
 int	ft_putchar(char c)
 {
 	write(1, &c, 1);
