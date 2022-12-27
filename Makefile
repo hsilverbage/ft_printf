@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: henrik <henrik@student.42lyon.fr>          +#+  +:+       +#+         #
+#    By: hsilverb <hsilverb@student.42lyon.fr>      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/12/16 18:02:30 by henrik            #+#    #+#              #
-#    Updated: 2022/12/20 05:58:54 by henrik           ###   ########lyon.fr    #
+#    Updated: 2022/12/27 10:14:24 by hsilverb         ###   ########lyon.fr    #
 #                                                                              #
 # **************************************************************************** #
 
